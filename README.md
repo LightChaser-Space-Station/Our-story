@@ -1,2 +1,17 @@
-# Our-story
-This is your first stroke upon history.（你的第一笔，已落在历史之上。）
+<div align="center">
+
+# 🌌 追光留言板  
+### *LightChaser Message Board*  
+
+---
+
+💫 *这里，记录着一代又一代逐光者的心声。*  
+✍️ *每一句话，都是时光里的印记；每一个名字，都是群星中的坐标。*  
+
+在此留下属于你的字句，  
+让它随历史长河回荡，  
+与未来的追光者们共鸣。  
+
+---
+
+</div>
