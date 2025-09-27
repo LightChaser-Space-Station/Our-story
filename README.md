@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🌌 追光留言板  
-### *LightChaser Message Board*  
+# 🌌 Our Story  
 
 ---
 
