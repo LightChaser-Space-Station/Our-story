@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌌 Our Story  
+# 🌌 Our-Story  
+### *LightChaser Message Board*  
 
 ---
 
