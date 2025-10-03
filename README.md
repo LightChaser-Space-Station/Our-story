@@ -33,18 +33,13 @@
 —— *Liuzhenyu · 2025.9.29*  
 ---
 
-<div align="center">
-
-<pre>
-#include <iostream.h>
+```
+#include<iostream.h>
 int main() {
-    printf("Hello zhuiguang");
-    return 0;
+printf("Hello zhuiguang");
+return 0;
 }
-</pre>
-
-</div>
-
+```
 **「我来力！！！追光之人，终将光芒万丈！」**
 —— *DU guanzheng . 2025.10.3*
 
