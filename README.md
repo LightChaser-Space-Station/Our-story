@@ -46,3 +46,17 @@ int main() {
 —— *DU guanzheng · 2025.10.3*
 
 ---
+
+```cpp
+     #include <iostream>                                                
+    using namespace std;                                              
+    int main(void) {                                                  
+        cout<<"当你向光而行，那束光里，始终有我们的身影。"<<endl;
+        return 0;                                            
+    }                                                                 
+````
+
+**「光的接力，从不停歇。」**
+—— *Deng Yexi · 2025.10.3*
+
+---
