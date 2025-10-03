@@ -34,13 +34,15 @@
 ---
 
 <div align="center">
-```
+
+<pre>
 #include <iostream.h>
 int main() {
     printf("Hello zhuiguang");
     return 0;
 }
-```
+</pre>
+
 </div>
 
 **「我来力！！！追光之人，终将光芒万丈！」**
