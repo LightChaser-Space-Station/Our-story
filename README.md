@@ -66,8 +66,8 @@ int main() {
 —— *Zeng chongen · 2025.10.4*
 
  * 叽里咕噜说啥呢，哥们你神光棒掉了(佚名)
- 
-  <img src="https://github.com/LightChaser-Space-Station/Our-story/blob/main/assets/images/light.jpeg?raw=true" alt="神光棒" width="200" height="150"/>
+
+  <img src="https://github.com/LightChaser-Space-Station/Our-story/blob/main/assets/images/light.jpeg?raw=true" alt="神光棒" width="200" height="200"/>
 
 
 
