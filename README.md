@@ -60,3 +60,14 @@ int main() {
 —— *Deng Yexi · 2025.10.3*
 
 ---
+
+```cpp
+#include <stdio.h>                                   
+int main() {                                  
+    printf("Hello Zhuiguang space station\n");
+    return 0;                                 
+} 
+````
+
+**「与光共舞，终成璀璨」**
+—— *Zeng chongen · 2025.10.4*
