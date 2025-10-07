@@ -69,31 +69,11 @@ int main() {
 
   <img src="https://github.com/LightChaser-Space-Station/Our-story/blob/main/assets/images/light.jpeg?raw=true" alt="神光棒" width="200" height="200"/>
 
----
-
-```cpp
-     #include <iostream>                                                
-    using namespace std;                                              
-    int main()
-    {                                                  
-        cout<<"今晚八点我在沙城等你"<<endl;
-        return 0;                                            
-    }                                                                 
-```
-
-**「拿出你的执行力，还有你的手机」**  
-—— *Zhang  Yingqi· 2025.10.7*
-
-
-
-
-
-
-
-
-
-
 
 ---
 **「去追属于你自己的光吧！！」**  
 —— *ruysdv · 2025.10.5*
+
+---
+**「拿出你的执行力，还有你的手机」**  
+—— *Zhang Yingqi· 2025.10.7*
